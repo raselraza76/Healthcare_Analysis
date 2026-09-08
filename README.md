@@ -156,9 +156,6 @@ healthcare-analysis-powerbi/
 * Interactive Visualization
 * Business Data Analysis
 
-## 🖼️ Dashboard Preview
-
-![Healthcare Analytics Dashboard](screenshots/healthcare-dashboard.png)
 
 ## 🔗 Live Dashboard
 
