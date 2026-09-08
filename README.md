@@ -167,5 +167,5 @@ I created this project to practice analyzing healthcare data with Power BI and t
 
 ---
 
-g, treatment costs, insurance coverage, procedures, diagnoses, departments, and patient expenses.**
+
 
