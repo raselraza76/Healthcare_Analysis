@@ -122,25 +122,6 @@ From the dashboard:
 * Insurance coverage and out-of-pocket expenses represent significant portions of healthcare costs.
 * The dashboard makes it easier to compare healthcare spending across departments, diagnoses, procedures, and service types.
 
-## 📁 Repository Structure
-
-```text
-healthcare-analysis-powerbi/
-│
-├── README.md
-│
-├── dataset/
-│   └── healthcare_dataset.csv
-│
-├── powerbi/
-│   └── Healthcare_Analysis.pbix
-│
-├── screenshots/
-│   └── healthcare-dashboard.png
-│
-└── documentation/
-    └── project-documentation.md
-```
 
 ## 🎓 Skills Demonstrated
 
